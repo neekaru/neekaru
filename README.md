@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lamina Rinami
 
-### An experienced Python developer
+### An experience Backend Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neekaru&label=Profile views&color=0e75b6&style=flat" alt="neekaru" /> </p>
 
